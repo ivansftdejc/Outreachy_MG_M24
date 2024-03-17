@@ -1,7 +1,7 @@
 # Outreachy_MG_M24
 Repositório para o registro de contribuições de código, sugestões,pull request, fluxos de trabalho documentados e outras contribuições valiosas sobre o projecto 'Empacotando FLINT para uso multiplataforma' da Moja Global no programa de contribuições da outreachy.
 # Regra Geral
-Para cada tarefa concluída:<p>
+1.Para cada tarefa concluída:<p>
 -Criação de um documento que resuma suas descobertas, melhorias ou alterações feitas;<p>
 -Incluir trechos de código relevantes, capturas de tela ou qualquer outro material de suporte que mostre o trabalho realizado;<p>
 -Depois da criação do documento, carregá-lo neste repositório;<p>
