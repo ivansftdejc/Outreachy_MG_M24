@@ -7,7 +7,7 @@
 ## Cronograma de Lançamento:
 - **03-10 de Março**: Preparação do ambiente de desenvolvimento e revisão da documentação existente.
 - **13-20 de Março**: Desenvolvimento e implementação de melhorias ou correções.
-- **22-31 de Abril**: Testes finais e preparação para submissão da contribuição.
+- **22-31 de Março**: Testes finais e preparação para submissão da contribuição.
 
 ## Desenvolvimento:
 - Implementação de scripts de instalação e testes em diferentes plataformas.
