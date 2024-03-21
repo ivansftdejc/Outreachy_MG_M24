@@ -5,9 +5,9 @@
 - Ensure the version is easily installable on different operating systems.
 
 ## Release Schedule:
-- **March 18-24**: Preparation of the development environment and review of existing documentation.
-- **March 25-31**: Development and implementation of improvements or fixes.
-- **April 1-2**: Final testing and preparation for contribution submission.
+- **March 03-10**: Preparation of the development environment and review of existing documentation.
+- **March 13-20**: Development and implementation of improvements or fixes.
+- **April 22-31**: Final testing and preparation for contribution submission.
 
 ## Development:
 - Implementation of installation scripts and tests on different platforms.
