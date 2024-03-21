@@ -12,7 +12,7 @@
 
 - **(14 de Março):** Escolha uma issue específica para trabalhar que seja relevante para o empacotamento cross-platform.
 - **(15-20 de Março):** Trabalhe na implementação da sua solução.
-- **(2-25 de Março):** Realize testes locais para garantir que sua solução funciona em diferentes plataformas.
+- **(21-25 de Março):** Realize testes locais para garantir que sua solução funciona em diferentes plataformas.
 
 #### Semana 3: Revisão e Submissão (28 - 30 de Março)
 
