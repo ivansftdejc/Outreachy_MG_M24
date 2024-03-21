@@ -1,40 +1,40 @@
-# Release Process Plan
+# Plano de Processo de Lançamento
 
-## Launch Objectives:
-- Launch a stable version of FLINT packaged for cross-platform use.
-- Ensure the version is easily installable on different operating systems.
+## Objetivos do Lançamento:
+- Lançar uma versão estável do FLINT empacotada para uso multiplataforma.
+- Garantir que a versão seja facilmente instalável em diferentes sistemas operacionais.
 
-## Release Schedule:
-- **March 03-10**: Preparation of the development environment and review of existing documentation.
-- **March 13-20**: Development and implementation of improvements or fixes.
-- **April 22-31**: Final testing and preparation for contribution submission.
+## Cronograma de Lançamento:
+- **03-10 de Março**: Preparação do ambiente de desenvolvimento e revisão da documentação existente.
+- **13-20 de Março**: Desenvolvimento e implementação de melhorias ou correções.
+- **22-31 de Abril**: Testes finais e preparação para submissão da contribuição.
 
-## Development:
-- Implementation of installation scripts and tests on different platforms.
-- Documentation of any changes and additions made to the code.
+## Desenvolvimento:
+- Implementação de scripts de instalação e testes em diferentes plataformas.
+- Documentação de quaisquer alterações e adições feitas ao código.
 
-## Testing:
-- Unit and integration tests to ensure cross-platform compatibility.
-- Installation tests in Windows, Linux, and macOS environments.
+## Testes:
+- Testes unitários e de integração para garantir a compatibilidade multiplataforma.
+- Testes de instalação em ambientes Windows, Linux e macOS.
 
-## Code Review:
-- Internal code reviews and feedback from project mentors.
+## Revisão de Código:
+- Revisões de código internas e feedback dos mentores do projeto.
 
-## Documentation:
-- Update of the README and other relevant documents with installation and usage instructions.
+## Documentação:
+- Atualização do README e outros documentos relevantes com instruções de instalação e uso.
 
-## Contribution Submission:
-- Submission of the contribution via pull request by April 2.
-- Communication with mentors about the submission and any subsequent steps.
+## Submissão da Contribuição:
+- Submissão da contribuição via pull request até o dia 2 de abril.
+- Comunicação com os mentores sobre a submissão e quaisquer passos seguintes.
 
-## Feedback and Adjustments:
-- Monitoring of the pull request to respond to comments and make adjustments as necessary.
+## Feedback e Ajustes:
+- Monitoramento do pull request para responder a comentários e realizar ajustes conforme necessário.
 
-## Beta Release:
-- Depending on the feedback, preparation of a beta version for additional community testing.
+## Lançamento Beta:
+- Dependendo do feedback, preparação de uma versão beta para testes adicionais pela comunidade.
 
-## Final Release:
-- Incorporation of feedback from the beta version and release of the final version.
+## Lançamento Final:
+- Incorporação do feedback da versão beta e lançamento da versão final.
 
-## Post-Release Maintenance:
-- Monitoring of issues and providing ongoing support.
+## Manutenção Pós-Lançamento:
+- Monitoramento de issues e fornecimento de suporte contínuo.
