@@ -4,8 +4,8 @@
 
 #### Semana 1: Conhecimento e Configuração (18 - 20 de Março)
 
-- **(06 de Março):** Familiarize-se com o FLINT lendo a [documentação disponível](link_para_documentação).
-- **(08 de Março):** Configure o ambiente de desenvolvimento conforme as instruções do [repositório no GitHub](link_para_repositório).
+- **(06 de Março):** Familiarize-se com o FLINT lendo a [documentação disponível](https://docs.moja.global/en/master/index.html).
+- **(08 de Março):** Configure o ambiente de desenvolvimento conforme as instruções do [repositório no GitHub](https://github.com/moja-global/mentorship/blob/main/outreachy/README.md).
 - **(10 de Março):** Explore os scripts de instalação cross-platform e entenda como eles funcionam.
 
 #### Semana 2: Desenvolvimento e Testes (21 - 27 de Março)
