@@ -5,20 +5,20 @@
 #### Semana 1: Conhecimento e Configuração (18 - 20 de Março)
 
 - **(06 de Março):** Familiarize-se com o FLINT lendo a [documentação disponível](https://docs.moja.global/en/master/index.html).
-- **(08 de Março):** Configure o ambiente de desenvolvimento conforme as instruções da [documentação](https://docs.moja.global/en/master/FLINT/FLINTDevelopmentSetup/index.html).
-- **(10 de Março):** Explore os scripts de instalação cross-platform e entenda como eles funcionam.
+- **(10 de Março):** Configure o ambiente de desenvolvimento conforme as instruções da [documentação](https://docs.moja.global/en/master/FLINT/FLINTDevelopmentSetup/index.html).
+- **(11 de Março):** Explore os scripts de instalação cross-platform e entenda como eles funcionam.
 
 #### Semana 2: Desenvolvimento e Testes (21 - 27 de Março)
 
-- **(12-14 de Março):** Escolha uma issue específica para trabalhar que seja relevante para o empacotamento cross-platform.
-- **(15-17 de Março):** Trabalhe na implementação da sua solução.
-- **( 18 de Março):** Realize testes locais para garantir que sua solução funciona em diferentes plataformas.
+- **(14 de Março):** Escolha uma issue específica para trabalhar que seja relevante para o empacotamento cross-platform.
+- **(15-20 de Março):** Trabalhe na implementação da sua solução.
+- **(2-25 de Março):** Realize testes locais para garantir que sua solução funciona em diferentes plataformas.
 
 #### Semana 3: Revisão e Submissão (28 - 30 de Março)
 
-- **(19 de Março):** Revise seu código e prepare a documentação necessária.
-- **(20 de Março):** Solicite feedback dos mentores ou da comunidade moja global.
-- **(21 de Março):** Faça as alterações finais com base no feedback e submeta seu pull request.
+- **(26 de Março):** Revise seu código e prepare a documentação necessária.
+- **(27 de Março):** Solicite feedback dos mentores ou da comunidade moja global.
+- **(29 de Março):** Faça as alterações finais com base no feedback e submeta seu pull request.
 
 ### Dicas Importantes:
 
